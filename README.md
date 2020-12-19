@@ -1,1 +1,1 @@
-# Plastic-assholes
+# Plastiс, assholes!
