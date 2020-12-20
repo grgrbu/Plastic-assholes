@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="768" height="560" name="nucleotide_tree_mafft_auto.svg" y="0" viewBox="0 0 768 560">
+<polyline points="768,560 0,560 0,0 768,0 768,560" fill="white" />
+<text x="344" y="479" fill="#000000" font-size="15" font-family="default" >KY115673.1 4OYY</text>
+<line x1="414" y1="297" x2="407" y2="457" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="92" y="408" fill="#000000" font-size="15" font-family="default" >FsC cutinase XM 003042478.1 XP 003042524.1</text>
+<line x1="414" y1="297" x2="355" y2="390" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="417" y="279" transform="rotate(284 417,279)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >1000</text>
+<line x1="427" y1="245" x2="414" y2="297" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="95" y="347" fill="#000000" font-size="15" font-family="default" >HM040886.1 ADH43200.1</text>
+<line x1="427" y1="245" x2="271" y2="353" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="431" y="229" transform="rotate(299 431,229)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >1000</text>
+<line x1="459" y1="188" x2="427" y2="245" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="99" y="218" fill="#000000" font-size="15" font-family="default" >PETase BBYR01000074.1 GAP38371.1</text>
+<line x1="459" y1="188" x2="351" y2="209" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="465" y="180" transform="rotate(314 465,180)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >765</text>
+<line x1="467" y1="180" x2="459" y2="188" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="154" y="145" fill="#000000" font-size="15" font-family="default" >LCC HQ704839.1 AEV21261.1</text>
+<line x1="467" y1="180" x2="350" y2="140" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="474" y="175" transform="rotate(330 474,175)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >997</text>
+<line x1="486" y1="169" x2="467" y2="180" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="281" y="102" fill="#000000" font-size="15" font-family="default" >AB728484.1 BAO42835.1</text>
+<line x1="486" y1="169" x2="434" y2="105" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="493" y="167" transform="rotate(349 493,167)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >1000</text>
+<line x1="511" y1="164" x2="486" y2="169" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="421" y="91" fill="#000000" font-size="15" font-family="default" >JQ339742.1 AFA45122.1</text>
+<line x1="511" y1="164" x2="507" y2="105" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="517" y="168" transform="rotate(9 517,168)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >1000</text>
+<line x1="549" y1="170" x2="511" y2="164" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="534" y="147" fill="#000000" font-size="15" font-family="default" > HQ147786.1 ADV92527.1</text>
+<line x1="549" y1="170" x2="560" y2="153" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="555" y="177" transform="rotate(31 555,177)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >841</text>
+<line x1="557" y1="175" x2="549" y2="170" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="567" y="179" fill="#000000" font-size="15" font-family="default" > HQ147787.1 ADV92528.1</text>
+<line x1="557" y1="175" x2="562" y2="173" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="560" y="191" transform="rotate(53 560,191)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >1000</text>
+<line x1="566" y1="187" x2="557" y2="175" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="571" y="190" fill="#000000" font-size="15" font-family="default" > HQ147785.1 ADV92526.1</text>
+<line x1="566" y1="187" x2="566" y2="187" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="567" y="199" transform="rotate(72 567,199)" fill="#B9C3C7" font-size="11" font-family="SFNS Display" >861</text>
+<line x1="566" y1="188" x2="566" y2="187" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="538" y="208" fill="#000000" font-size="15" font-family="default" > HQ147784.1 ADV92525.1</text>
+<line x1="566" y1="188" x2="567" y2="190" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="566" y1="188" x2="566" y2="188" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="461" y="214" fill="#000000" font-size="15" font-family="default" >TfH JN129500.1 WP011291330</text>
+<line x1="566" y1="188" x2="566" y2="192" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="516" x2="121" y2="516" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="512" x2="60" y2="520" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="121" y1="512" x2="121" y2="520" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="80" y="546" fill="#B9C3C7" font-size="11" font-family="MS Sans Serif" >0.10</text>
+</svg>
